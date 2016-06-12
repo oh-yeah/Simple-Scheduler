@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SimpleScheduler", "SimpleScheduler\SimpleScheduler.xproj", "{E228B2DE-15B7-4C49-AA46-A1E710FA5E6F}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SimpleScheduler", "src\SimpleScheduler.xproj", "{E228B2DE-15B7-4C49-AA46-A1E710FA5E6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
